@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Kristin</h1>
 <h3 align="center">A passionate developer from Seattle</h3>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Android Development** and **CyberSecurity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
